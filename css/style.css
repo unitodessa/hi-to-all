@@ -5,6 +5,7 @@
 .p1 {
     text-align: center;
     color: blue;
+    font-weight: bold;
 }
 .p2 {
     text-align: center;
@@ -15,4 +16,8 @@
     text-align: center;
     color: blue;
     background-color: silver;
+    
+}
+.p3 {
+    font-family: "Helvetica Neue", Arial, sans-serif;
 }
