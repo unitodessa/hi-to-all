@@ -1,0 +1,18 @@
+.tetle {
+    background-color: aqua;
+    color: black
+}
+.p1 {
+    text-align: center;
+    color: blue;
+}
+.p2 {
+    text-align: center;
+    background-color: yellow;
+    text-transform: lowercase;
+}
+.h1 {
+    text-align: center;
+    color: blue;
+    background-color: silver;
+}
